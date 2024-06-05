@@ -5,7 +5,9 @@
 ***About The Project***
 
  Objective: Develop a web application for detecting multiple diseases using machine learning.
+ 
  Description: The application will integrate various disease detection models into a single platform. Users can select a disease, input test report data, and receive a prediction on whether the disease is detected or not.
+ 
  Scope: Covers diseases such as breast cancer, lung cancer, skin cancer, heart disease, atrial fibrillation, Alzheimer's disease, Parkinson's disease, diabetes, COVID-19, sepsis, chronic obstructive pulmonary disease, pneumonia, depression and anxiety, and schizophrenia.
  
  ***Project Stages*** 
