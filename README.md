@@ -33,6 +33,7 @@
 
 
 ![enter image description here](https://tse1.mm.bing.net/th?id=OIP.l1AKHait5cLftAjZ6R24-AAAAA&pid=Api&P=0&h=220)
+
 ***Technical stack*** 
  - Programming Language: Python
  - Machine Learning: Scikit-learn, TensorFlow, Keras(optional)
