@@ -1,1 +1,0 @@
-This is a folder of ML models trained for disease detection and prediction.
