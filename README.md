@@ -2,7 +2,7 @@
 
 # MedScan
 
-# Disease Detection Web Application
+# Multiple Disease Detection Web Application
 
 ## Overview
 This project presents a comprehensive web application capable of detecting and predicting multiple diseases using machine learning models. Users can select a disease, input relevant medical test data, and receive a prediction on the presence of the disease.
