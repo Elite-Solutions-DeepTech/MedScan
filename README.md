@@ -2,64 +2,64 @@
 
 # MedScan
 
-***About The Project***
+# Disease Detection Web Application
 
- Objective: Develop a web application for detecting multiple diseases using machine learning.
- 
- Description: The application will integrate various disease detection models into a single platform. Users can select a disease, input test report data, and receive a prediction on whether the disease is detected or not.
- 
- Scope: Covers diseases such as breast cancer, lung cancer, skin cancer, heart disease, atrial fibrillation, Alzheimer's disease, Parkinson's disease, diabetes, COVID-19, sepsis, chronic obstructive pulmonary disease, pneumonia, depression and anxiety, and schizophrenia.
- 
- ***Project Stages*** 
+## Overview
+This project presents a comprehensive web application capable of detecting and predicting multiple diseases using machine learning models. Users can select a disease, input relevant medical test data, and receive a prediction on the presence of the disease.
 
- - Data Cleaning and Preprocessing
- - Model Integration
+## Features
+- **Multi-Disease Detection:** Supports predictions for various diseases.
+- **User-Friendly Interface:** Intuitive form-based input for medical data.
+- **Scalable Architecture:** Designed to easily include more diseases and models.
+- **Web-Based Access:** Accessible from any device with an internet connection.
 
-  
+## Supported Diseases
+- Breast Cancer
+- Thyroid and its conditions
+- Heart Stroke
+- Lung Cancer
+- Parkinson's Disease
+- Diabetes
+- COVID-19
+- Chronic Obstructive Pulmonary Disease (COPD)
+- Depression and Anxiety
+- Multiple Sclerosis
+- Cardiovascular Disease
 
- - Data Collection
+## Data Collection
+- **Sources:** Datasets sourced from Kaggle and GitHub.
+- **Preprocessing:** Data was cleaned, normalized, and prepared for training and testing.
 
-  
+## Model Development
+- **Algorithms:** Utilized various machine learning algorithms tailored for each disease.
+- **Evaluation Metrics:** Models were evaluated using accuracy, precision, recall, and F1 score.
 
- - Model Development
+## Web Application
+- **Framework:** Built using Streamlit for an interactive and responsive user interface.
+- **Functionality:** Users can select a disease, input test data, and receive real-time predictions.
 
-    
+## Technical Stack
+- **Programming Language:** Python
+- **Development Environment:** Google Colab
+- **Machine Learning Libraries:** Scikit-learn
+- **Data Handling Libraries:** Pandas, NumPy
+- **Web Framework:** Streamlit
+- **Data Visualization:** Matplotlib, Seaborn
 
- - Testing and Validation
+## Project Stages
+1. **Data Collection:** Gathered datasets from Kaggle and GitHub.
+2. **Data Preprocessing:** Cleaned and prepared the data.
+3. **Model Development:** Trained and validated machine learning models for each disease.
+4. **Model Integration:** Integrated individual models into a unified system.
+5. **Application Development:** Developed the web application using Streamlit.
+6. **Testing and Validation:** Ensured functionality and accuracy of the application.
+7. **Deployment:** Deployed the application for public access.
 
-   
+## Results
+- **High Accuracy:** Achieved accurate disease predictions through model training and validation.
+- **Seamless User Experience:** Provided an easy-to-use interface for entering data and obtaining results.
+- **Comprehensive Solution:** Successfully integrated multiple disease detection capabilities into a single platform.
+- **Future Scalability:** Designed the system to easily incorporate additional diseases and enhancements.
 
- - Application Development
-
-   
-
- - Deployment
- 
-
-
-
-![enter image description here](https://tse1.mm.bing.net/th?id=OIP.l1AKHait5cLftAjZ6R24-AAAAA&pid=Api&P=0&h=220)
-
-***Technical stack*** 
- - Programming Language: Python
- - Machine Learning: Scikit-learn, TensorFlow, Keras(optional)
- - Web Application Framework: Streamlit 
- - Data Handling and Analysis: Pandas, NumPy
- - Development Environment: Google Colab
- - Data Visualization: Matplotlib, Seaborn.
- 
-***Predicted Result*** 
- - Accurate Disease Detection: High accuracy in predicting the presence
-   of diseases based on input test data.
-
- 
-
- - User-Friendly Interface: Easy navigation and interaction for users to
-   input data and receive results.
-
- 
-
- - Comprehensive Coverage: Support for multiple diseases within a single
-   application.
- - Scalable Solution: Potential to add more diseases and improve models
-   over time. Available as a web application.
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
