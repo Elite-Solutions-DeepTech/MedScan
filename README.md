@@ -25,7 +25,7 @@ This project presents a comprehensive web application capable of detecting and p
 - Multiple Sclerosis
 - Cardiovascular Disease
 - PCOS
-- Athma
+- Asthma
 
 ## Data Collection
 - **Sources:** Datasets sourced from Kaggle and GitHub.
