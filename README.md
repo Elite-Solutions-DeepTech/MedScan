@@ -21,10 +21,11 @@ This project presents a comprehensive web application capable of detecting and p
 - Parkinson's Disease
 - Diabetes
 - COVID-19
-- Chronic Obstructive Pulmonary Disease (COPD)
 - Depression and Anxiety
 - Multiple Sclerosis
 - Cardiovascular Disease
+- PCOS
+- Athma
 
 ## Data Collection
 - **Sources:** Datasets sourced from Kaggle and GitHub.
